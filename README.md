@@ -61,7 +61,7 @@ Implemented core modules for the Variational Quantum Eigensolver (VQE) and Grove
 ## Connect with Me
 - Portfolio: https://mypropertymap.com
 - GitHub: https://github.com/AnuragBorisa
-- LinkedIn: https://linkedin.com/in/anuragborisa
+- LinkedIn: https://www.linkedin.com/in/anurag-borisa-401788200/
 - Email: anuragborisa@gmail.com
 - LeetCode: https://leetcode.com/AnuragBorisa
 
