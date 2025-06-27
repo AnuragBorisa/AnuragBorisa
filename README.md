@@ -16,7 +16,7 @@ I love shipping production-ready features in Agile teams, automating infra on AW
 | &nbsp; |  |
 |---|---|
 | **Co-founder & Lead Developer**<br/>MyPropertyMap.com | Architecting a React / Next.js front-end, Node/Express micro-services, native iOS & Android apps, and PostGIS vector-tile back-end. Recent wins: Google-Maps switch (-50 % API spend) & password-less JWT auth (-40 % tickets). |
-| **Quantum Optimisation Researcher**<br/>QRACE & IIT-ISM Dhanbad | Built a QAOA pipeline that shortens EV-fleet routes by 18 % vs simulated-annealing baseline; co-authoring a pre-print for IEEE T-ITS. |
+| **Quantum Optimisation Researcher**<br/>QRACE & IIT-ISM Dhanbad | Building a QAOA pipeline that shortens EV-fleet routes  simulated-annealing baseline;  |
 | **Tech Consultant**<br/>Shark Cyber Tech *(prev.)* | Led back-end optimisations, CI/CD automation, and API hardening for high-traffic client apps. |
 
 ---
