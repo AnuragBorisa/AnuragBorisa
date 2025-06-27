@@ -1,72 +1,76 @@
-# Hi there, I'm Anurag Borisa
+# Hi there, I’m Anurag Borisa 👋  
+
+ Quantum Engineer · Full-stack engineer · Tech Consultant
+
+---
 
 ## About Me
-I'm a Tech Consultant and Full-Stack Developer, and co-founder of MyPropertyMap. Over the past year, I have delivered scalable web and mobile solutions, blending deep technical expertise with a consultative approach. I thrive in Agile environments and enjoy leveraging cloud infrastructure, geospatial technologies, and data visualization to bring ideas to life.
+I’m the Co-founder & Lead Engineer at **[MyPropertyMap](https://mypropertymap.com)**, where we turn messy cadastral data into fast, intuitive real-estate maps used by thousands of property seekers.  
+Alongside this, I’m a **Quantum Optimisation Researcher** with **QRACE & IIT-ISM Dhanbad**, applying QAOA and quantum GANs to logistics and finance.
 
-### Current Roles
-- Co-founder and Lead Developer at MyPropertyMap.com, where I design and optimize real estate mapping solutions using Google Maps, OpenLayers, and custom vector-tile renderers.
-- Tech Consultant at Shark Cyber Tech, leading backend architecture and API optimizations.
-- Quantum Computing Intern at IIT Delhi’s QRACE program, building Python-based circuit simulators and exploring variational algorithms.
+I love shipping production-ready features in Agile teams, automating infra on AWS, and translating tough data problems into elegant visual stories.
+
+---
+
+## Current Roles
+| &nbsp; |  |
+|---|---|
+| **Co-founder & Lead Developer**<br/>MyPropertyMap.com | Architecting a React / Next.js front-end, Node/Express micro-services, native iOS & Android apps, and PostGIS vector-tile back-end. Recent wins: Google-Maps switch (-50 % API spend) & password-less JWT auth (-40 % tickets). |
+| **Quantum Optimisation Researcher**<br/>QRACE & IIT-ISM Dhanbad | Built a QAOA pipeline that shortens EV-fleet routes by 18 % vs simulated-annealing baseline; co-authoring a pre-print for IEEE T-ITS. |
+| **Tech Consultant**<br/>Shark Cyber Tech *(prev.)* | Led back-end optimisations, CI/CD automation, and API hardening for high-traffic client apps. |
+
+---
 
 ## Skills & Expertise
+| **Category** | **Stack / Tools** |
+|---|---|
+| **Languages** | TypeScript · Kotlin · Python · C++ · Swift · JavaScript · SQL |
+| **Web / Back-end** | React · Next.js · Node.js · Express · FastAPI · GraphQL |
+| **Data & Geospatial** | PostgreSQL/PostGIS · MongoDB · Redis · OpenLayers · Google Maps JS API |
+| **DevOps & Cloud** | Docker · AWS (EC2 | RDS | Lightsail | Lambda) · GitHub Actions CI/CD |
+| **Mobile** | Kotlin & Jetpack Compose · SwiftUI · Flutter basics |
+| **Quantum / ML** | Qiskit · PyTorch · NumPy · matplotlib · variational algorithms (VQE, QAOA, qGAN) |
 
-### Web & Backend
-- Languages: TypeScript, JavaScript, SQL, C++
-- Frameworks: React, Next.js, Node.js, Express
-- Databases & Caching: MongoDB, PostgreSQL, Redis
-- DevOps & Cloud: Docker, AWS (EC2, S3, Lambda), CI/CD pipelines
+---
 
-### Geospatial & Mapping
-- Google Maps API, OpenLayers, Mapbox optimization
-- Vector tile rendering, Places API integration, tile caching strategies
-- Performance tuning to reduce memory footprint and API costs
+## Featured Projects
+| &nbsp; |  |
+|---|---|
+| **Vector-Tile Renderer** *(MyPropertyMap)* | Custom OpenLayers + Google-Tiles engine; 70 % memory drop & 50 % fewer API calls. |
+| **QuanMaths** | Notebook series that re-derives VQA mathematics—complex-number arithmetic ➜ Bell-state entanglement—fully implemented in Python. |
+| **Quantum Forge (qFin-qGAN)** | Hybrid quantum–classical GAN learning non-Gaussian return distributions; 28 % lower Wasserstein distance vs classical GAN. |
+| **EV Route-Optimiser (QAOA)** | Weighted-graph Hamiltonian + custom mixer; converges 2× faster than COBYLA, 18 % mileage reduction on 50-node graphs. |
 
-### Mobile Development
-- Android: Kotlin, Jetpack Compose, architecting modular, maintainable apps
-- iOS: Swift, SwiftUI, Combine; building responsive interfaces and seamless user experiences
-- Cross-platform: Dart and Flutter fundamentals for hybrid apps
-
-### Quantum Computing
-- Fundamentals: Dirac notation, operators, eigenvalues, eigenvectors
-- Quantum circuits: building simulators in Python, exploring superposition and entanglement
-- Variational Quantum Algorithms and quantum optimization techniques
-
-## Projects
-
-### MyPropertyMap Vector-Tile Renderer
-High-performance custom vector-tile renderer using OpenLayers and Google Maps JavaScript API. Reduced memory footprint by 70% and API calls by 50%.
-
-### Tile Prefetching & Caching System
-Engineered intelligent tile prefetching and caching strategies to improve map load times and minimize Google Maps API usage for large-scale property views.
-
-### Places API Search Integration
-Built a dynamic property search interface leveraging Google Places API with auto-complete, geospatial filters, and relevance ranking for real estate listings.
-
-### Quantum Variational Circuit Simulator
-Created a Python-based simulator for parameterized quantum circuits, supporting variational algorithms and gate-by-gate optimization routines, with visualization in a Next.js frontend.
-
-### VQE & Grover’s Algorithm Modules
-Implemented core modules for the Variational Quantum Eigensolver (VQE) and Grover’s search algorithm in the simulator, enabling experimentation with near-term quantum performance models.
+---
 
 ## Achievements
-- Solved over 350 algorithmic challenges on LeetCode and GeeksforGeeks.
-- Guided teams to improve delivery velocity by 40% and reduce hosting costs by 35%.
-- Secured a competitive internship in Quantum Technology at IIT Delhi.
+- 🏆 Top 5 — *Hacking Vishwa Cup ’22*  
+- ✓ Solved **350 +** DSA challenges on LeetCode / GfG / CodeStudio  
+- ⚙️ Cut deployment time 80 % with GitHub Actions → AWS Lightsail pipelines  
+
+---
 
 ## Goals for 2025
-- Advance expertise in cloud-native architectures and DevOps best practices.
-- Contribute to open-source projects in geospatial mapping and quantum computing.
-- Transition to opportunities in Europe or the USA by 2026.
+- Deepen cloud-native & DevOps expertise  
+- Contribute to open-source geospatial and quantum-ML projects   
+
+---
+
+## GitHub Stats 📊
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnuragBorisa&show_icons=true&theme=radical&hide_border=true" alt="Anurag's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragBorisa&theme=radical&hide_border=true" alt="Anurag's GitHub streak" />
+</p>
+
+---
 
 ## Connect with Me
-- Portfolio: https://mypropertymap.com
-- GitHub: https://github.com/AnuragBorisa
-- LinkedIn: https://www.linkedin.com/in/anurag-borisa-401788200/
-- Email: anuragborisa@gmail.com
-- LeetCode: https://leetcode.com/AnuragBorisa
+- 🌐 **Portfolio:** <https://mypropertymap.com>  
+- 💼 **LinkedIn:** <https://www.linkedin.com/in/anurag-borisa-401788200/>  
+- ✉️ **Email:** anuragborisa@gmail.com  
+- 📝 **LeetCode:** <https://leetcode.com/AnuragBorisa>
 
-## Interests
-I enjoy experimenting with new mapping techniques, deepening my understanding of quantum algorithms, and building cross-platform mobile experiences with Flutter, SwiftUI, and Jetpack Compose.
+---
 
-Let's build something great together!
-
+I’m always keen to chat about geospatial tech, quantum ML, or bringing new ideas to production—**let’s build something great together!**
