@@ -5,19 +5,26 @@
 ---
 
 ## About Me
-I’m the Co-founder & Lead Engineer at **[MyPropertyMap](https://mypropertymap.com)**, where we turn messy cadastral data into fast, intuitive real-estate maps used by thousands of property seekers.  
-Alongside this, I’m a **Quantum Optimisation Researcher** with **QRACE & IIT-ISM Dhanbad**, applying QAOA and quantum GANs to logistics and finance.
+I’m a Software Engineer at **Credibl**, and the Co-founder & Lead Engineer at **[MyPropertyMap](https://mypropertymap.com)**—turning messy cadastral/geospatial data into fast, intuitive real-estate map experiences.  
+Alongside this, I work on **Quantum Optimisation** with **QRACE & IIT-ISM Dhanbad**, applying QAOA and quantum GANs to practical problems in logistics and finance.
 
-I love shipping production-ready features in Agile teams, automating infra on AWS, and translating tough data problems into elegant visual stories.
+I love shipping production-ready features in Agile teams, thinking in **system design** (scalability, caching, reliability), automating infra on AWS, and translating tough data problems into clean product experiences.
 
 ---
 
 ## Current Roles
 | &nbsp; |  |
 |---|---|
-| **Co-founder & Lead Developer**<br/>MyPropertyMap.com | Architecting a React / Next.js front-end, Node/Express micro-services, native iOS & Android apps, and PostGIS vector-tile back-end. Recent wins: Google-Maps switch (-50 % API spend) & password-less JWT auth (-40 % tickets). |
-| **Quantum Optimisation Researcher**<br/>QRACE & IIT-ISM Dhanbad | Building a QAOA pipeline that shortens EV-fleet routes  simulated-annealing baseline;  |
-| **Tech Consultant**<br/>Shark Cyber Tech *(prev.)* | Led back-end optimisations, CI/CD automation, and API hardening for high-traffic client apps. |
+| **Software Engineer**<br/>Credibl | Building and scaling product features with a strong focus on **backend/system design**, performance, and reliability. |
+| **Co-founder & Lead Developer**<br/>MyPropertyMap.com | Architecting a React / Next.js front-end, Node/Express services, native iOS & Android apps, and PostGIS + vector-tile back-end. Recent wins: Google Maps vector-tiles migration (−50% API spend) & password-less JWT auth (−40% tickets). |
+| **Quantum Optimisation Researcher**<br/>QRACE & IIT-ISM Dhanbad | Building a QAOA pipeline for route/fleet optimisation and exploring quantum GANs for finance-oriented modelling. |
+
+---
+
+## Previous
+| &nbsp; |  |
+|---|---|
+| **Tech Consultant**<br/>Shark Cyber Tech | Led back-end optimisations, CI/CD automation, and API hardening for high-traffic client apps. |
 
 ---
 
@@ -44,9 +51,9 @@ I love shipping production-ready features in Agile teams, automating infra on AW
 ---
 
 ## Achievements
-- 🏆 Top 5 — *Hacking Vishwa Cup ’22*  
-- ✓ Solved **350 +** DSA challenges on LeetCode / GfG / CodeStudio  
-- ⚙️ Cut deployment time 80 % with GitHub Actions → AWS Lightsail pipelines  
+-  Top 5 — *Hacking Vishwa Cup ’22*  
+-  Solved **350 +** DSA challenges on LeetCode / GfG / CodeStudio  
+-  Cut deployment time 80 % with GitHub Actions → AWS Lightsail pipelines  
 
 ---
 
@@ -56,7 +63,7 @@ I love shipping production-ready features in Agile teams, automating infra on AW
 
 ---
 
-## GitHub Stats 📊
+## GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnuragBorisa&show_icons=true&theme=radical&hide_border=true" alt="Anurag's GitHub stats" />
   <br/>
@@ -66,10 +73,10 @@ I love shipping production-ready features in Agile teams, automating infra on AW
 ---
 
 ## Connect with Me
-- 🌐 **Portfolio:** <https://mypropertymap.com>  
-- 💼 **LinkedIn:** <https://www.linkedin.com/in/anurag-borisa-401788200/>  
-- ✉️ **Email:** anuragborisa@gmail.com  
-- 📝 **LeetCode:** <https://leetcode.com/AnuragBorisa>
+-  **Portfolio:** <https://mypropertymap.com>  
+-  **LinkedIn:** <https://www.linkedin.com/in/anurag-borisa-401788200/>  
+-  **Email:** anuragborisa@gmail.com  
+-  **LeetCode:** <https://leetcode.com/AnuragBorisa>
 
 ---
 
